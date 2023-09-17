@@ -42,37 +42,43 @@ Ensure that your system meets the following prerequisites before proceeding with
 
 - **Python 3.x**: The Falcon Project is developed using Python 3. Make sure to have a compatible Python version installed. You can download it from the [official Python website](https://www.python.org/).
 - **NLTK package**: This project utilizes the Natural Language Toolkit (NLTK) for various natural language processing tasks. Install it using the following command:
-
+```
 pip install nltk
-
+```
 - **Spacy**: Spacy is another essential NLP library used in this project. Install it with the following command:
+```
 pip install spacy
-
+```
 - **scikit-learn**: The project employs scikit-learn for machine learning tasks, including text vectorization. Install it using the command:
-pip install scikit-learn
+```pip install scikit-learn```
 
 - **Hugging Face**: To take advantage of the state-of-the-art NLP models, ensure to have the Hugging Face library installed using:
+```
 pip install transformers
-
+```
 - **Other Dependencies**: Depending on the specific functionalities of your project, you might require additional libraries and packages. Be sure to list them here.
 
 ### Installation Steps
 
 1. **Clone the Repository**: Start by cloning the Falcon Project repository from GitHub to your local system using the following command:
+```
 git clone https://github.com/dolvido/conversation_machine.git
-
+```
 
 2. **Navigate to the Project Directory**: Change your directory to the project's root folder using:
+```
 cd falcon_project
-
+```
 
 3. **Install Dependencies**: Install all the necessary dependencies using the command:
+```
 pip install -r requirements.txt
-
+```
 
 4. **Run the Application**: Finally, run the application using the following command:
+```
 python main.py
-
+```
 You have now successfully installed and set up the Talkn-Falcn Project on your system. You can start exploring its functionalities and features.
 
 **Note**: The installation steps might vary based on the operating system and the specific configurations of your project. Make sure to provide accurate and detailed instructions to facilitate a smooth installation process for all users.
