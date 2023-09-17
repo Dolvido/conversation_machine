@@ -45,23 +45,15 @@ Ensure that your system meets the following prerequisites before proceeding with
 
 pip install nltk
 
-csharp
-Copy code
 - **Spacy**: Spacy is another essential NLP library used in this project. Install it with the following command:
 pip install spacy
 
-arduino
-Copy code
 - **scikit-learn**: The project employs scikit-learn for machine learning tasks, including text vectorization. Install it using the command:
 pip install scikit-learn
 
-vbnet
-Copy code
 - **Hugging Face**: To take advantage of the state-of-the-art NLP models, ensure to have the Hugging Face library installed using:
 pip install transformers
 
-sql
-Copy code
 - **Other Dependencies**: Depending on the specific functionalities of your project, you might require additional libraries and packages. Be sure to list them here.
 
 ### Installation Steps
