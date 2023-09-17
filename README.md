@@ -81,18 +81,5 @@ python main.py
 ```
 You have now successfully installed and set up the Talkn-Falcn Project on your system. You can start exploring its functionalities and features.
 
-**Note**: The installation steps might vary based on the operating system and the specific configurations of your project. Make sure to provide accurate and detailed instructions to facilitate a smooth installation process for all users.
-In this section:
 
-### Installation Steps
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/falcon_project.git
 
-# Navigate to the project directory
-cd falcon_project
-
-# Install the necessary packages
-pip install -r requirements.txt
-
-# Install other models
