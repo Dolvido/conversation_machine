@@ -18,7 +18,7 @@ Utilizing techniques such as TF-IDF for keyword extraction and synonym expansion
 
 Whether it's enhancing a chatbot's capabilities or aiding human users in finding the right words to keep the conversation flowing, the Conversation Machine Project is here to assist. It is an ongoing project, continuously evolving to incorporate more advanced features and offer a refined user experience. Join us in this endeavor to take digital conversations to the next level.
 
-![Conversation Machine Image](conversation_machine.png)
+![Conversation Machine Image](conversation-machine.png)
 
 ## Features
 
